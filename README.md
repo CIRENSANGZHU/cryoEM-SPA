@@ -5,7 +5,7 @@ some code about cryoEM SPA
 
 ## orientation_sampling.py
 
-近似均匀地采样欧拉角(phi, theta)，可用于对3D物体的各取向均匀的投影。取向可以用端点在单位球面上的单位向量表示，代码给出的采样结果为P94_step9.png与SK97_N1163.png。
+近似均匀地采样欧拉角(phi, theta)，可用于对3D物体的各取向均匀的投影。取向可以用端点在单位球面上的单位向量表示，代码给出的采样结果为orientation_sampling_P94_step9.png与orientation_sampling_SK97_N1163.png。
 
 参考文献：
 

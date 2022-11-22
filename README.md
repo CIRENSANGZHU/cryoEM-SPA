@@ -12,3 +12,19 @@ some code about cryoEM SPA
 "P.R. Baldwin, Pawel A. Penczek. The Transform Class in SPARX and EMAN2. Journal of Structural Biology, 2007, 250-261"
 
 "E.B. Saff, A.B.J. Kuijlaars. Distributing Many Points on a Sphere. The Mathematical Intelligencer, 1997, 5-11"
+
+## CTF.py
+
+根据给定参数生成CTF，并给（干净的投影）图像加上CTF。
+
+
+参考文献：
+
+'CTF Simulation': https://ctfsimulation.streamlit.app
+
+'cryoSPARC CTF estimation': https://guide.cryosparc.com/processing-data/all-job-types-in-cryosparc/ctf-estimation
+
+CTFFIND4: Fast and accurate defocus estimation from electron micrographs. Alexis Rohou and Nikolaus Grigorieff. Journal of Structural Biology 192 (2015) 216–221.
+
+Computational Methods for Single-Particle Cryo-EM. Amit Singer and Fred J. Sigworth. Annual Review of Biomedical Data Science, Vol. 3, pp. 163-190, 2020.
+
